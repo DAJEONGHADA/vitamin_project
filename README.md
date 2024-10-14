@@ -20,4 +20,5 @@
 ### 🖥️ 코드
 0. user.dic : 사용자 사전
 1. vitamin_review_web_crawing.py : 비타민 제품 리뷰 웹크롤링
-2. vitamin_review_tokenize : 비타민 제품 리뷰 토근화
+2. vitamin_review_tokenize.ipynb : 비타민 제품 리뷰 토근화
+3. vitamin_review_wordcloud.ipynb : 비타민 제품 리뷰 워드클라우드
