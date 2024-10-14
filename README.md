@@ -22,3 +22,4 @@
 1. vitamin_review_web_crawing.py : 비타민 제품 리뷰 웹크롤링
 2. vitamin_review_tokenize.ipynb : 비타민 제품 리뷰 토근화
 3. vitamin_review_wordcloud.ipynb : 비타민 제품 리뷰 워드클라우드
+4. vitamin_review_tfidf.ipynb : 비타민 제품 리뷰 tf-idf
